@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import {RemoteComponent} from "./remote.component";
+import RemoteComponent from "./remote.component";
 
 @Component({
   selector: 'app-root',
